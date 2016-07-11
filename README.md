@@ -31,7 +31,7 @@ To get started just simply click on the "Inspire" button and a inspirational pep
       stress of reinventing the wheel ever again and I can just use someone else's wheel!
       My life will never be the same again. Thanks Peptalks!
 
-      - Satisfied customer (actor)
+      - Barack Obama (president)
 
 # What next?
 To use Peptalks, simply go to canigetpeptalk.herokuapp.com and experience it and have your life changed forever.
