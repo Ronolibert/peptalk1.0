@@ -18,7 +18,7 @@ With Peptalk, being an unprepared for peptalks is a thing of the past. Peptalk p
       Before I had Peptalks, I could never think of anything to say when I was
       volunteered, but now I never have to experience that struggle again. Thanks Peptalks!
 
-      ##### H5 - Ron Cruz (owner)
+      - Ron Cruz (owner)
 
 
 
@@ -31,7 +31,7 @@ To get started just simply click on the "Inspire" button and a inspirational pep
       stress of reinventing the wheel ever again and I can just use someone else's wheel!
       My life will never be the same again. Thanks Peptalks!
 
-      ##### H5 - Satisfied customer (actor)
+      - Satisfied customer (actor)
 
 # What next?
 To use Peptalks, simply go to canigetpeptalk.herokuapp.com and experience it and have your life changed forever.
